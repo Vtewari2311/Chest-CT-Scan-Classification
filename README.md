@@ -21,13 +21,13 @@ To use Computer Vision techniques of Deep Learning to correctly identify & class
     <img width="700" height="300" src = 'https://github.com/pranavtushar/VGG16-Chest-CT-Scan-Classification/blob/main/Images/squamous-cell-carcinoma.png'
 </p>
 
-To use these images in our Deep Learning Model, we need to pre-process these images first.
+Preprocessing:
 
 <p align="center">
     <img width="750" height="200" src = 'https://github.com/pranavtushar/VGG16-Chest-CT-Scan-Classification/blob/main/Images/pre-processing.png'
 </p>
   
-Data Augmentation is used to increase the size of training dataset, and for improving deep learning robustness.
+Data Augmentation:
   <p align="center">
     <img width="750" height="200" src = 'https://github.com/pranavtushar/VGG16-Chest-CT-Scan-Classification/blob/main/Images/data-augmentation.png'
 </p>
