@@ -43,6 +43,6 @@ Data Augmentation is used to increase the size of training dataset, and for impr
 </p> 
           
           
-<p> Conclusion </p>
+## Conclusion
     
 In this project, I employed the VGG 16 Convolutional Neural Network Model to categorize Chest CT-Scan images into four distinct classes. To further enhance the model's accuracy, several avenues can be explored, including expanding the dataset's size, generating synthetic datasets through GANs, fine-tuning hyperparameters, and exploring cutting-edge CNN models such as Attention-based CNNs and Vision Transformers.
