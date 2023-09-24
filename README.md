@@ -35,8 +35,9 @@ Data Augmentation:
     
    <p align="center">
     <img width="750" height="200" src = 'https://github.com/pranavtushar/VGG16-Chest-CT-Scan-Classification/blob/main/Images/model.png'
-</p> -->
- <p> Evaluation Parameters</p>
+</p>
+
+ Evaluation:
      
    <p align="center">
     <img width="750" height="200" src = 'https://github.com/pranavtushar/VGG16-Chest-CT-Scan-Classification/blob/main/Images/evaluation-parameters.png'
